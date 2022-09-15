@@ -1,0 +1,42 @@
+[
+    {
+        "title":"Doctor Strange en el multiverso de la locura",
+        "date":"6 Mayo 2022",
+        "synopsis":"En esta nueva aventura, el Doctor Strange (Benedict Cumberbatch) va a poner a prueba los límites de sus poderes y esto le llevará a explorar una nueva dimensión de sus capacidades. Tras haber fallado su hechizo, cuando trataba de ayudar a Spider-Man (Tom Holland) con su identidad secreta,  tiene que recurrir a una vieja amiga, Wanda Maximoff (Elizabeth Olsen) para enmendar su error. Como nunca antes, el famoso hechicero de Marvel explorará los oscuros rincones del Multiverso, donde deberá contar con nuevos y viejos aliados si quiere sobrevivir a las peligrosas realidades alternativas del universo y enfrentarse a un nuevo misterioso enemigo.",
+        "img":"images/doctor-strange-poster.jpg",
+        "altimg":"Poster Doctor Strange 2",
+        "score":"66"
+    },
+    {
+        "title":"Spider-Man: No Way Home",
+        "date":"16 Diciembre 2021",
+        "synopsis":"Después de que Mysterio desvelara la identidad de Spider-Man a todo el mundo en Lejos de casa, Peter Parker (Tom Holland), desesperado por volver a la normalidad y recuperar su anterior vida, pide ayuda a Doctor Strange para enmendar tal acción. El Hechicero Supremo de Marvel accede a ayudar al joven Hombre Araña, sin embargo, algo sale mal y el multiverso se convierte en la mayor amenaza hasta el momento.",
+        "img":"images/Spiderman_no_way_home.jpg",
+        "altimg":"Poster Spiderman No Way Home",
+        "score":"66"
+    },
+    {
+        "title":"Avengers: End Game",
+        "date":"25 Abril 2019",
+        "synopsis":"Mientras Iron Man (Robert Downey Jr.) vaga en soledad junto a Nebula (Karen Gillan) en una nave lejos de la Tierra, el grupo encabezado por Capitán América (Chris Evans), Viuda Negra (Scarlett Johansson), Hulk (Mark Ruffalo) y Thor (Chris Hemsworth) deberá tratar de revertir los efectos de la catástrofe provocada por Thanos. Los Vengadores deberán reunirse una vez más para deshacer sus acciones y restaurar el orden en el universo de una vez por todas. Esta vez, contarán también con aliados como Ojo de Halcón (Jeremy Renner) y Capitana Marvel (Brie Larson), además de Ant-Man (Paul Rudd), que presumiblemente podría haber estado atrapado en el Reino Cuántico. Juntos, se prepararán para la batalla final, sin importar cuáles sean las consecuencias.",
+        "img":"images/avengers_end_game.jpg",
+        "altimg":"Poster Avengers End Game",
+        "score":"66"
+    },
+    {
+        "title":"Capitana Marvel",
+        "date":"6 Mayo 2022",
+        "synopsis":"Ambientada en los años 90, esta nueva aventura nos presenta un periodo de la historia nunca antes visto en el Universo Cinematográfico de Marvel. El viaje de Carol Danvers (Brie Larson) para convertirse en una de las heroínas más poderosas del universo, la Capitana Marvel, miembro de una raza de nobles héroes guerreros. Mientras una guerra galáctica entre dos razas alienígenas llega a la Tierra, Danvers luchará junto a un pequeño grupo de aliados, mientras trata de encontrarse a sí misma para descubrir quién es en realidad.",
+        "img":"images/capitana_marvel.jpg",
+        "altimg":"Poster Capitana Marvel",
+        "score":"66"
+    },
+    {
+        "title":"Thor: Love and Thunder",
+        "date":"6 Mayo 2022",
+        "synopsis":"La película encuentra a Thor (Chris Hemsworth) en un viaje diferente a todo lo que ha enfrentado: Una búsqueda de la paz interior. Pero su retiro es interrumpido por un asesino galáctico conocido como Gorr el carnicero de dioses (Christian Bale), que busca la extinción de los dioses. Para combatir la amenaza, Thor solicita la ayuda de la reina Valkiria (Tessa Thompson), Korg (Taika Waititi) y su ex novia Jane Foster (Natalie Portman), quien, para sorpresa de Thor, empuña inexplicablemente su martillo mágico, Mjolnir, como la Poderosa Thor.",
+        "img":"images/thor_love_and_thunder.jpg",
+        "altimg":"Poster Thor Love and Thunder",
+        "score":"66"
+    }
+]
