@@ -2,7 +2,7 @@ import React from "react";
 
 function Pelicula(props) {
     return(
-        <article className="card">
+        <article className="card" key={props.index}>
             <div className="card-header">
                 <div className="title"><h2>{props.title}</h2></div>
                 <div className="date"><img src="images/clock.svg" alt="clock" className="icon-boton"/>{props.date}</div>
@@ -19,21 +19,21 @@ function Pelicula(props) {
                 <div className="descripcion">
                     <h3>Synopsis</h3>
                     <p>{props.synopsis}</p>
-                    <a href="" className="orden boton"><img src="images/shopping-cart.svg" alt="cart" className="icon-boton"/> PRE ORDER</a>
-                    <a href="" className="leer-mas boton"><img src="images/more-horizontal.svg" alt="mas-info" className="icon-boton"/> READ MORE</a>
+                    <a href="order/" className="orden boton"><img src="images/shopping-cart.svg" alt="cart" className="icon-boton"/> PRE ORDER</a>
+                    <a href="read-most/" className="leer-mas boton"><img src="images/more-horizontal.svg" alt="mas-info" className="icon-boton"/> READ MORE</a>
                 </div>
                 <div className="valoracion">
-                    <p className="metricas">{props.score} - score</p>
+                    <p className="metricas">{props.history} - score</p>
                     <div className="barra">
-                        <div className="puntaje" style={{width: '80%',}}></div>
+                        <div className="puntaje" style={{width: props.history+'%',}}></div>
                     </div>
-                    <p className="metricas">4.5 - Photoshop</p>
+                    <p className="metricas">{props.rate} - Rate</p>
                     <div className="barra">
-                        <div className="puntaje" style={{width: '45%',}}></div>
+                        <div className="puntaje" style={{width: props.rate+'%',}}></div>
                     </div>
-                    <p className="metricas">6.4 - Metametric</p>
+                    <p className="metricas">{props.score} - History</p>
                     <div className="barra">
-                        <div className="puntaje" style={{width: '62%'}}></div>
+                        <div className="puntaje" style={{width: props.puntaje+'%'}}></div>
                     </div>
                 </div>
             </div>
